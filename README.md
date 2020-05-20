@@ -7,4 +7,6 @@ I was able to fix one of the links at the top of the page that was not taking yo
 
 There was no title to the webpage so I added a title that would help it be found in search engines.
 
-I changed the semantic elements to make the html file easier to read and navigate.
+I changed the elements to semantic elements to make the html file easier to read and navigate.
+
+There was much redundancy in the .css file.  I condensend and combined many of the elements in the style page to simplify it but still have the same results. 
