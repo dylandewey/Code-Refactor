@@ -1,5 +1,5 @@
 # Code Refactor
-In this website I was able to make the html format a little more readable for the developer. I cleaned up tabs and spacing. 
+In this website I was able to make the html format a little more readable for the developer by adding semantic tags. I cleaned up tabs and spacing. 
 
 None of the images had an alt attribues so I gave them all an alt attribute.
 
@@ -10,3 +10,5 @@ There was no title to the webpage so I added a title that would help it be found
 I changed the elements to semantic elements to make the html file easier to read and navigate.
 
 There was much redundancy in the .css file.  I condensend and combined many of the elements in the style page to simplify it but still have the same results. 
+
+I added comments in the html and the css files. 
